@@ -81,7 +81,7 @@ La colonna Informativa è formata da articoli, video e foto pubblicati dagli ute
 
 Le pubblicazioni
 
-L’ordine delle pubblicazioni nella colonna Informativa come in quella Propositiva è quello del totale decrescente dei voti positivi ricevuti.
+L’ordine delle pubblicazioni nella colonna Informativa come in quella Propositiva è quello del totale decrescente dei voti positivi ricevuti. Insomma per prime quelle con più voti positivi.
 
 Le pubblicazioni così ordinate sono a loro volta suddivise in scaglioni cronologici settimanali per la colonna Informativa e annuali per la colonna Propositiva, ma l’utente ha la possibilità di modificare la durata degli scaglioni cronologici di entrambe le colonne.
 
