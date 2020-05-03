@@ -21,7 +21,7 @@ La figura politica
 
 Prefazione
 
-	Prima parte.
+Prima parte.
 
 La democrazia, dal greco antico: démos, “popolo", e krátos, “potere”, significa il ”governo del popolo", ovvero un sistema di governo in cui la sovranità è esercitata dal popolo.
 
@@ -36,7 +36,7 @@ Il potere prolungato porta all’abuso e alla corruzione. Sono difetti inevitabi
 
 «L'uomo è per natura un animale politico» (Aristotele)
 
-	Seconda parte.
+Seconda parte.
 
 La notizia, dal latino notitia derivata da notus cioè "noto, conosciuto", è un'informazione su di un fatto o un avvenimento di particolare interesse.
 
