@@ -1,5 +1,5 @@
 # LiberaVox
-Global Direct Democracy &amp; Global Information
+Global Direct Democracy &amp; Information
 
 LiberaVox
 
