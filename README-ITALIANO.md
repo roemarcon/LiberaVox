@@ -109,7 +109,7 @@ Il commento non è mai anonimo.
 
 Le restrizioni
 
-Chiunque può accedere e consultare la totalità di LiberaVox senza restrizioni, anche senza crearne un profilo.
+Chiunque può accedere e consultare la totalità di LiberaVox senza restrizioni, anche senza averne un profilo.
 
 La pubblicazione, il voto e il commentare nella colonna Informativa richiedono la creazione di un profilo.
 
