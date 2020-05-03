@@ -3,20 +3,20 @@ Global Direct Democracy &amp; Global Information
 
 LiberaVox
 
-Prefazione
-Introduzione
-Presentazione
-La colonna Propositiva
-La colonna Informativa
-Le pubblicazioni
-Il voto
-I commenti
-Le restrizioni
-La scala geografica
-La ricerca
-Open Source
-I mestieri di merito
-La figura politica
+- Prefazione
+- Introduzione
+- Presentazione
+- La colonna Propositiva
+- La colonna Informativa
+- Le pubblicazioni
+- Il voto
+- I commenti
+- Le restrizioni
+- La scala geografica
+- La ricerca
+- Open Source
+- I mestieri di merito
+- La figura politica
 
 
 Prefazione
