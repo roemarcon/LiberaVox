@@ -74,7 +74,7 @@ La colonna Informativa
 
 Si parla spesso dell’importanza di non far affidamento solo alle fonti informative ufficiali e di cercare delle fonti alternative.
 Ma cos’è una vera fonte alternativa e dove la si trova?
-Sempre più persone si mantengono informate degli eventi mondiali consultando pagine web e applicazioni di quotidiani e settimanali online. E allora perché non mantenersi informati leggendo regolarmente una fonte “alternativa” perché creata direttamente dalle persone come il lettore stesso e a cui egli stesso può partecipare attivamente?
+Sempre più persone si mantengono informate degli eventi mondiali consultando pagine web e applicazioni di quotidiani e settimanali online. E allora perché non mantenersi informati leggendo regolarmente una fonte “alternativa” in quanto creata direttamente dalle persone come il lettore stesso e a cui egli stesso può partecipare attivamente?
 
 La colonna Informativa è formata da articoli, video e foto pubblicati dagli utenti stessi e che potranno poi essere votati.
 
