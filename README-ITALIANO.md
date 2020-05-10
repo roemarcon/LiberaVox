@@ -15,7 +15,7 @@ LiberaVox
 - La scala geografica
 - La ricerca
 - Open Source
-- I mestieri di merito
+- Le carriere di merito
 - La figura politica
 
 
@@ -138,7 +138,7 @@ Open Source
 Tutta la pagina web è gestita da un software Open Source a cui chiunque se ne intenda può accedere per controllarne l’imparzialità.
 
 
-I mestieri di merito
+Le carriere di merito
 
 Il profilo dell’utente può essere interamente privato o pubblico.
 Se pubblico, l’utente può ancora scegliere quali delle sue pubblicazioni mostrare sul suo muro.
